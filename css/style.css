@@ -1,0 +1,238 @@
+* {
+    margin: auto;
+}
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+a {
+    color: #DCC670;;
+}
+
+a:hover {
+    color: white;
+}
+
+span {
+    color: #FFFF99;
+}
+
+/* image on top */
+
+header > img {
+    display: flex;
+}
+
+/* margin of the page */
+
+.margin-div {
+    margin-left: 22.2%;
+    margin-top: 13px;
+    margin-right: 22.2%;
+}
+
+/* all the content on the left */
+
+.aside-left {
+    flex: 1;
+}
+
+.li-class {
+    list-style-type: '- ';
+}
+
+.div-aside {
+    float: left;
+    width: 165px;
+}
+
+.menublack-bottom {
+    position: absolute;
+    left: 22.2%;
+}
+
+ul {
+    border: 1px solid #FFFFFF;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 18%;
+    padding-top: 8%;
+    margin-right: 5px;
+}
+
+.account-options {
+    margin-top: 10%;
+}
+
+.menu-image {
+    position: relative;
+    top: 5px;
+}
+
+/* all the content on the right */
+
+.div-aside-right {
+    float: right;
+    padding-top: 2%;
+}
+
+.promo-gamersclub {
+    text-align: center;
+    color: #DCC670;
+}
+
+.sponsors-options {
+    padding: 8%;
+    padding-left: 10%;
+    border: 1px solid white;
+    border-bottom: none;
+    border-top: none;
+}
+
+/* all the middle content */
+
+main {
+    display: flex;
+    margin-left: 18.5%;
+}
+
+.starting-section {
+    margin: 0, auto;
+}
+
+.starting-section p {
+    text-align: center;
+}
+
+.play-div {
+    padding-left: 8%;
+}
+
+.account-red-play {
+    padding-right: 16%;
+}
+
+.free-account {
+    padding-left: 5%;
+}
+
+.normal-text {
+    padding-left: 33%;
+    padding-right: 2%;
+    display: inline;
+}
+
+.server-text {
+    padding-left: 48%;
+}
+
+.scroll-image {
+    position: relative;
+    bottom: 4px;
+}
+
+.scroll-image2 {
+    position: relative;
+    bottom: 8px;
+}
+
+.scroll-image3 {
+    position: relative;
+    bottom: 16px;
+}
+
+.scroll-image4 {
+    position: relative;
+    bottom: 24px;
+}
+
+.text-container {
+    margin-left: 3%;
+    margin-right: 34.5%;
+    position: absolute;
+    top: 106%;
+    color: black;
+}
+
+.text-container p {
+    text-align: left;
+}
+
+.text-container a {
+    color: #990000
+}
+
+.text-container-2 {
+    position: absolute;
+    top: 123%;
+    margin-left: 3%;
+    margin-right: 34.5%;
+    color: black;
+}
+
+.promo-upgrade-container {
+    display: flex;
+}
+
+.promo-upgrade-container img {
+    margin-right: 3%;
+}
+
+h1 {
+    text-align: left;
+}
+
+.text-container-2 .promo-upgrade-container p {
+    text-align: left;
+}
+
+.text-container-2 a {
+    color: #990000
+}
+
+.text-container-3 {
+    position: absolute;
+    top: 140%;
+    margin-left: 3%;
+    margin-right: 34.5%;
+    color: black;
+}
+
+.text-container-3 .promo-upgrade-container p {
+    text-align: left;
+}
+
+.text-container-3 .promo-upgrade-container .date-lordchaos {
+    text-align: left;
+    font-size: 0.85em;
+}
+
+/* footer */
+
+footer p {
+    text-align: center;
+}
+
+
+
+
+/* media screen for tablet and ipads low resolution */
+
+/* @media screen and (max-width: 767px) {
+} */
+
+/* media screen for tablet and ipads portrait mode */
+
+/* @media screen and (max-width: 1024px) {
+
+} */
+
+/* media screen for desktop  */
+
+/* @media screen and (max-width: 1280px) {
+
+} */
