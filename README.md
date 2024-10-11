@@ -1,4 +1,4 @@
-# HTMLCSSDUBLINAQW
+# AQWebsite
 
 
 This is a website project that I had to do for HTML/CSS classes at DCU (Dublin City University)
